@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T23:01:10.266Z" agent="5.0 (Macintosh)" etag="RvvZrqfH9J2xCIaBFPD6" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T23:03:59.369Z" agent="5.0 (Macintosh)" etag="r375UUW88KMjMvKE5MKQ" version="17.1.0" type="github">
   <diagram id="9MPO39MfpI7pv3HyR61F" name="Page-1">
     <mxGraphModel dx="1579" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           <mxGeometry x="-40" y="220" width="550" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-23" value="vivo (aka scholars)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;fontStyle=0;horizontal=1;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="350" width="250" height="80" as="geometry" />
+          <mxGeometry x="-50" y="352" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-25" value="vivo_admin (aka profile mgr)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;fontStyle=0;horizontal=1;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="260" y="350" width="250" height="80" as="geometry" />
+          <mxGeometry x="260" y="352" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.644;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=22.5;entryPerimeter=0;curved=1;" edge="1" parent="1" source="cj-YQitfOQZqWISBJvCt-23" target="cj-YQitfOQZqWISBJvCt-6">
           <mxGeometry relative="1" as="geometry">
@@ -127,8 +127,11 @@
             <mxPoint x="230" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cj-YQitfOQZqWISBJvCt-55" value="&lt;div&gt;&lt;b&gt;scholars-web-04 &amp;amp; 05&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-128" y="332" width="140" height="20" as="geometry" />
+        <mxCell id="cj-YQitfOQZqWISBJvCt-55" value="&lt;div&gt;&lt;b&gt;scholars-web-04/05.oit.duke.edu&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-126" y="334" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cj-YQitfOQZqWISBJvCt-56" value="&lt;div&gt;&lt;b&gt;scholars-solr-02.oit.duke.edu&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="391" y="335" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
