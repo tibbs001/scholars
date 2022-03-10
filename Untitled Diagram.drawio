@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T00:22:37.954Z" agent="5.0 (Macintosh)" etag="EOMaS8oaQQ30p9rdgaGr" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T00:26:02.414Z" agent="5.0 (Macintosh)" etag="kE7d69MnnvqgQ53Zz1aa" version="17.1.0" type="github">
   <diagram id="9MPO39MfpI7pv3HyR61F" name="Page-1">
     <mxGraphModel dx="1822" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cj-YQitfOQZqWISBJvCt-74" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=10;fontColor=#000000;strokeWidth=2;fillColor=#969DFF;" vertex="1" parent="1">
-          <mxGeometry x="110" y="340" width="200" height="460" as="geometry" />
+          <mxGeometry x="120" y="340" width="210" height="460" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BFC6FF;" vertex="1" parent="1">
-          <mxGeometry x="310" y="340" width="270" height="460" as="geometry" />
+          <mxGeometry x="330" y="340" width="250" height="460" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BFC6FF;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="340" width="230" height="460" as="geometry" />
+          <mxGeometry x="-120" y="340" width="240" height="460" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFD7FF;" vertex="1" parent="1">
           <mxGeometry x="-120" y="200" width="700" height="140" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="-120" y="100" width="700" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-1" value="&lt;div&gt;&lt;span&gt;data_project&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.flowchart.on-page_reference;fontStyle=1;horizontal=1;labelPosition=center;align=center;labelBorderColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="120" width="270" height="70" as="geometry" />
+          <mxGeometry x="90" y="120" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cj-YQitfOQZqWISBJvCt-4" target="cj-YQitfOQZqWISBJvCt-1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry x="465" y="650" width="100" height="91" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-12" value="&lt;b&gt;FDR Database&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="220" width="550" height="100" as="geometry" />
+          <mxGeometry x="-50" y="220" width="550" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-23" value="&lt;div&gt;&lt;b&gt;vivo &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(aka scholars)&lt;/b&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;fontStyle=0;horizontal=1;labelPosition=center;align=center;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-88" y="420" width="145" height="140" as="geometry" />
+          <mxGeometry x="-77.5" y="390" width="145" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-25" value="&lt;div&gt;&lt;b&gt;vivo_admin&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;(aka profile_manager)&lt;/b&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.flowchart.on-page_reference;fontStyle=0;horizontal=1;labelPosition=center;align=center;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="420" width="145" height="140" as="geometry" />
+          <mxGeometry x="390" y="390" width="145" height="140" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cj-YQitfOQZqWISBJvCt-1" target="cj-YQitfOQZqWISBJvCt-12">
           <mxGeometry relative="1" as="geometry">
@@ -85,32 +85,31 @@
         <mxCell id="cj-YQitfOQZqWISBJvCt-56" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#000099&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;scholars-solr-02.oit.duke.edu&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#000099&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="365" y="340" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cj-YQitfOQZqWISBJvCt-63" value="" style="endArrow=classic;html=1;rounded=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cj-YQitfOQZqWISBJvCt-23" target="cj-YQitfOQZqWISBJvCt-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="440" as="sourcePoint" />
-            <mxPoint x="170" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-65" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=0.268;exitY=1.043;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.668;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cj-YQitfOQZqWISBJvCt-12" target="cj-YQitfOQZqWISBJvCt-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="530" as="sourcePoint" />
             <mxPoint x="280" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cj-YQitfOQZqWISBJvCt-66" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cj-YQitfOQZqWISBJvCt-25" target="cj-YQitfOQZqWISBJvCt-6">
+        <mxCell id="cj-YQitfOQZqWISBJvCt-66" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=-0.018;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cj-YQitfOQZqWISBJvCt-25" target="cj-YQitfOQZqWISBJvCt-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="530" as="sourcePoint" />
             <mxPoint x="280" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cj-YQitfOQZqWISBJvCt-80" value="data owned by scholars" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Helvetica;fontColor=#000066;" vertex="1" connectable="0" parent="cj-YQitfOQZqWISBJvCt-66">
+          <mxGeometry x="-0.1008" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-71" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Example URL:&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;https://scholars.duke.edu/vivo_admin/manage_profile/0274780&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="310" y="765.5" width="308" height="17" as="geometry" />
+          <mxGeometry x="340" y="765.5" width="278" height="17" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-72" value="&lt;div style=&quot;font-size: 10px&quot;&gt;URL:&amp;nbsp; scholars.duke.edu&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-128" y="769" width="164" height="10" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-6" value="&lt;b&gt;RDF (mariadb)&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="150" y="385" width="120" height="210" as="geometry" />
+          <mxGeometry x="160" y="450" width="130" height="210" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-45" value="" style="endArrow=classic;html=1;rounded=0;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="cj-YQitfOQZqWISBJvCt-6" target="cj-YQitfOQZqWISBJvCt-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -119,7 +118,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-75" value="solr" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="335" y="640" width="90" height="81" as="geometry" />
+          <mxGeometry x="340" y="650" width="90" height="81" as="geometry" />
         </mxCell>
         <mxCell id="cj-YQitfOQZqWISBJvCt-76" value="&lt;font style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;text-decoration: none; font-style: normal;&quot;&gt;scholars-db-01/02.oit.duke.edu&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=10;fontColor=#000066;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="140" y="335" width="170" height="30" as="geometry" />
@@ -128,6 +127,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="550" as="sourcePoint" />
             <mxPoint x="240" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cj-YQitfOQZqWISBJvCt-63" value="data owned by others" style="endArrow=classic;html=1;rounded=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cj-YQitfOQZqWISBJvCt-23" target="cj-YQitfOQZqWISBJvCt-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="440" as="sourcePoint" />
+            <mxPoint x="170" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
